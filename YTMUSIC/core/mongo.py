@@ -6,7 +6,7 @@ import config
 
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority"
+TEMP_MONGODB = "mongodb+srv://mdhakeeb13_db_user:<0lVVtWLqiHiQPBic>@vampireking.qf45oeb.mongodb.net/?retryWrites=true&w=majority&appName=VAMPIREKING"
 
 
 if config.MONGO_DB_URI is None:
